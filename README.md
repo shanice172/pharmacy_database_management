@@ -28,7 +28,7 @@ This application was built using ORM, instead of a raw SQL approach. This design
 
 
 ## REST API Endpoints
----
+
 ### Customers
 | Name | HTTP Method | Path | Description |
 |--------|--------|--------|--------|
@@ -56,9 +56,5 @@ This application was built using ORM, instead of a raw SQL approach. This design
 These API endpoints were tested through Insomnia.
 
 ## Future Developments
----
-<<<<<<< HEAD:readme.md
 Improvements are still in store for this application. For example, data visualization through the use of matplotlib, pandas and numpy will be added, as well as an index.
-=======
 
->>>>>>> d2ddb7b9c9c6c745a27fe4225b12d52f47922bf3:README.md
