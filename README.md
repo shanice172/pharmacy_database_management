@@ -22,6 +22,3 @@ paths, methods, parameters
 ## Future Developments
 ---
 
-# pharmacy_database_management
-# pharmacy_database_management
-# pharmacy_database_management
